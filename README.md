@@ -1,6 +1,6 @@
  Hello everyone it's Alaa Abu Issa talking here
 .. Achtully I'm a **Civil Engineer** but as you know the bad situation in my field especially in these days ,
-So to be honest i decided to shift may career to be inshalla a profitional ***Full Stak Developer*** in this grateful journey and an amazing instructors team.
+So to be honest i decided to shift may career to be inshalla a professional ***Full Stak Developer*** in this grateful journey and an amazing instructors team.
 
 |   Assignment  |               Link                          |
 | --------------|-------------------------------------------- |
