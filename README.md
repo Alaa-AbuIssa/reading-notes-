@@ -9,7 +9,7 @@ So to be honest i decided to shift may career to be inshalla a profitional ***Fu
 |    Read02b    |  [Revisions and the Cloud](read02b.md)      |
 |    Read03     |  [Structure web pages with HTML](read03.md) |
 |     lab2a     |  [learning markdown](lab2a.md)              |
-|    Read04a    |  [Programming with JavaScript](Read04a)     |
+|    Read04a    |  [Programming with JavaScript](Read04a.md)  |
 
 
  
