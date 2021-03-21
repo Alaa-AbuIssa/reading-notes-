@@ -10,6 +10,6 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |    Read3      |  [Structure web pages with HTML](Read3.md) |
 |    lab2a      |  [learning markdown](Lab2.md)              |
 |    Read4      |  [Programming with JavaScript](Read4.md)   | 
-|    Read5      |  [Operators and Loops](Read5.md.)          |
+|    Read5      |  [Operators and Loops](Read5.md)           |
 
  
