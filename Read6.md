@@ -18,3 +18,19 @@ You can specify any color of the text inside an element in three ways:
 * **Rgb Values**
 * **Hex Codes**
 * **Color Names**
+
+*dragonfly*
+
+**dragonfly**
+
+
+* dragonfly
+
+
+> dragonfly
+
+# dragonfly
+
+& dragonfly
+
+`dragonfly`
