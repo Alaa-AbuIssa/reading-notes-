@@ -4,7 +4,7 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 
 |                      Read #                             |                            Link                      |
 | --------------------------------------------------------|----------------------------------------------------- |
-|    Code 102 - Intro to Software Development             | [Content of 102 reading notes](Read1/Code102.md)     |
+|    Code 102 - Intro to Software Development             | [Content of 102 reading notes](Read1/README.md)      |
 |    Code 201 - Foundations of Software Development       | [content of 201 reading notes](Read2)                |
 |    Code 301 -                                           |                                                      |
 |    Code 401 -                                           |                                                      |
