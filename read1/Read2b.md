@@ -1,8 +1,9 @@
 About my reading i see that the Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes  .
 and its saperate to :
-1- Local Version Control
-2-Centralized Version Control
-3-Distributed Version Control
+
+* Local Version Control
+* Centralized Version Control
+* Distributed Version Control
 
 
 About the "Git":

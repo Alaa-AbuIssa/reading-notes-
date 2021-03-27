@@ -4,11 +4,11 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 
 
 
-## Code 102
+# Code 102
 
 |   Assignment  |                       Link                        |
 | --------------|---------------------------------------------------|
-|    Read01     |  [growth-mindset](read1/Read01.md)                |
+|    Read01     |  [The Coder's Computer](read1/Read01.md)          |
 |    Read2a     |  [Learning Markdown](read1/Read2a.md)             |
 |    Read2b     |  [Revisions and the Cloud](read1/Read2b.md)       |
 |    Read3      |  [Structure web pages with HTML](read1/Read3.md)  |
@@ -20,9 +20,11 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 
 
 
-## Code 201
+
+# Code 201
 |   Assignment  |                       Link                              |
 |---------------|---------------------------------------------------------|
 |    Read01     | [Introductory HTM and JavaScript](read2/read01.md)      |
 |    Read       |                                                         |
 |    Read       |                                                         | 
+|               |                                                         |
