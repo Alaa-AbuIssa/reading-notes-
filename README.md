@@ -23,6 +23,6 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 ## Code 201
 |   Assignment  |                       Link                              |
 |---------------|---------------------------------------------------------|
-|    Read01     | [Introductory HTM and JavaScript](read2/Read01.md)      |
+|    Read01     | [Introductory HTM and JavaScript](read2/read01.md)      |
 |    Read       |                                                         |
 |    Read       |                                                         | 
