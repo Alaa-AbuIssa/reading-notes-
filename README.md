@@ -2,9 +2,12 @@
 .. Actually I'm a **Civil Engineer** but as you know the bad situation in my field especially in these days ,
 So to be honest i decided to shift may career to be inshalla a professional **Full Stack Developer** in this grateful journey and an amazing instructors team.
 
+
+
 ## Code 102
+
 |   Assignment  |                       Link                        |
-| --------------|-------------------------------------------------  |
+| --------------|---------------------------------------------------|
 |    Read01     |  [growth-mindset](read1/Read01.md)                |
 |    Read2a     |  [Learning Markdown](read1/Read2a.md)             |
 |    Read2b     |  [Revisions and the Cloud](read1/Read2b.md)       |
@@ -19,9 +22,7 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 
 ## Code 201
 |   Assignment  |                       Link                              |
-| --------------|-------------------------------------------------------- |
+|---------------|---------------------------------------------------------|
 |    Read01     | [Introductory HTM and JavaScript](read2/Read01.md)      |
 |    Read       |                                                         |
 |    Read       |                                                         | 
-|    
-
