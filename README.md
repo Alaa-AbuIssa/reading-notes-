@@ -25,6 +25,6 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |   Assignment  |                       Link                              |
 |---------------|---------------------------------------------------------|
 |    Read01     | [Introductory HTM and JavaScript](read2/read01.md)      |
-|    Read       |                                                         |
+|    Read       | [Basics of HTML, CSS & JS](read2/read02.md)             |
 |    Read       |                                                         | 
 |               |                                                         |
