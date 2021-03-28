@@ -81,4 +81,3 @@ To make decisions we should use conditional statements that included in the Java
 **To complet the conditinal statments we should use comparison operators so what is Comparison Operators :??** 
 Comparison operators are used in logical statements to determine equality or difference between variables or values.
 
-Examples :let us say that x = 5, the table below explains the comparison operators: The comparison symbol | the statements | the result —————————————–|————–|————————– == is equal to | x == 8 |false === is equal value and equal type |x === 5 |true != is not equal |x != 8 |true !== is not equal value or not equal type |x !== 5 |false this > is greater than |x > 8 |false < is less than |x < 8 |true this >= is greater than or equal to |x >= 8 |false <= is less than or equal to |x <= 8 |true
