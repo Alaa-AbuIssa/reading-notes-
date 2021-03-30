@@ -29,7 +29,15 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |    Read02     | [Basics of HTML, CSS & JS](Code201/Class2.md)                |
 |    Read03     | [HTML Lists, CSS Boxes, JS Control Flow](Code201/Class3.md)  | 
 |    Read04     | [HTML Links, CSS Layout, JS Functions](Code201/Class4.md)    |
-|               |                                                              |
-|               |                                                              | 
+|    Read05     |                                                              |
+|    Read07     |                                                              | 
+|    Read08     |                                                              | 
+|    Read09     |                                                              | 
+|    Read010    |                                                              | 
+|    Read011    |                                                              | 
+|    Read012    |                                                              | 
+|    Read013    |                                                              | 
+|    Read014    |                                                              | 
+|    Read015    |                                                              | 
 |               |                                                              |
 
