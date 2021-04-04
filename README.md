@@ -31,7 +31,7 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |    Read04     | [HTML Links, CSS Layout, JS Functions](Code201/Class4.md)    |
 |    Read05     | [ HTML Images; CSS Color & Text](Code201/Class5.md)          |
 |    Read06     | [Object Literals; The DOM](Code201/Class6.md)                | 
-|    Read07     |                                                              | 
+|    Read07     | [HTML Tables; JS Constructor Functions](Code201/Class7.md)   | 
 |    Read08     |                                                              | 
 |    Read09     |                                                              | 
 |    Read010    |                                                              | 
