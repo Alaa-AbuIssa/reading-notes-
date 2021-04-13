@@ -36,7 +36,7 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |    Read09     | [Forms and Events](Code201/Class9.md)                        | 
 |    Read010    | [JS Debugging](Code201/Class10.md)                           | 
 |    Read011    | [Assorted Topics](Code201/Class11.md)                        | 
-|    Read012    |                                                              | 
+|    Read012    | [Chart.js, Canvas](Code201/Class12.md)                       | 
 |    Read013    |                                                              | 
 |    Read014    |                                                              | 
 |    Read015    |                                                              | 
