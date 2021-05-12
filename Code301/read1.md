@@ -3,12 +3,12 @@ React. js is an open-source JavaScript library that is used for building user in
 
 # Introducing JSX
  is called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
- ![img1](https://raw.githubusercontent.com/mariamodat/readingNotes301/main/code301/r1.png)
+ ![img1](img1.png)
 
  # Specifying Attributes with JSX
  const element = < div tabIndex="0"></ div>;
 
- ![img2](https://raw.githubusercontent.com/mariamodat/readingNotes301/main/code301/r2.png)
+ ![img2](r2.png)
 
  # Rendering an Element into the DOM
 Let’s say there is a < div> somewhere in your HTML file:
@@ -25,4 +25,4 @@ ReactDOM.render(element, document.getElementById('root'));
 
 # Components and Props
 
-![img3](https://raw.githubusercontent.com/mariamodat/readingNotes301/main/code301/r3.png)
+![img3](r3.png)
