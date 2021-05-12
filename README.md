@@ -83,7 +83,7 @@
 
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
-|    Read01     | [ Introduction to React and Components](Code301/read1)       |
+|    Read01     |                                                              |
 |    Read02     |                                                              |
 |    Read03     |                                                              | 
 |    Read04     |                                                              |
