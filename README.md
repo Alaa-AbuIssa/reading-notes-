@@ -1,10 +1,13 @@
- Hello everyone it's Alaa Abu Issa talking here
-.. Actually I'm a **Civil Engineer** but as you know the bad situation in my field especially in these days ,
-So to be honest i decided to shift may career to be inshalla a professional **Full Stack Developer** in this grateful journey and an amazing instructors team.
+# Reading notes
+
+### In this repository. you will find my own notes for my coding journey 
+
+![table of content image](https://lh3.googleusercontent.com/proxy/7QX2onb2acW84CbgmuzYe4H2CSWWZq88rXsKHInA6tRbLT1LxNAzVfyHTlFgFAyFtqfCCwfxmspVkBImGhTmpKYxIqSzEttW9Vyh)
 
 
 
-# Code 102
+
+# Code 102 :  Intro to Software Development
 
 |   Assignment  |                       Link                         |
 | --------------|--------------------------------------------------- |
@@ -21,7 +24,7 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 
 
 
-# Code 201      
+# Code 201  : Foundations of Software Development    
 
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
@@ -40,6 +43,61 @@ So to be honest i decided to shift may career to be inshalla a professional **Fu
 |    Read013a   | [Local Storge](Code201/Class13a.md)                          | 
 |    Read013b   | [CSS ,Transitions, and Animations](Code201/Class13b.md)      | 
 |    Read014    | [What Google Learned About Teams](Code201/Class14.md)        | 
+|               |                                                              | 
+|               |                                                              |
+
+
+
+
+
+
+
+
+# Code 301 :  Intermediate Software Development    
+
+|   Assignment  |                       Link                                   |
+|---------------|--------------------------------------------------------------|
+|    Read01     | [ Introduction to React and Components](Code301/read1)       |
+|    Read02     |                                                              |
+|    Read03     |                                                              | 
+|    Read04     |                                                              |
+|    Read05     |                                                              |
+|    Read06     |                                                              | 
+|    Read07     |                                                              | 
+|    Read08     |                                                              | 
+|    Read09     |                                                              | 
+|    Read010    |                                                              | 
+|    Read011    |                                                              | 
+|    Read012    |                                                              | 
+|    Read013    |                                                              | 
+|    Read014    |                                                              | 
+|    Read015    |                                                              |
+|               |                                                              | 
+|               |                                                              |
+
+
+
+
+
+# Code 401 : Advanced Software Developmen    
+
+|   Assignment  |                       Link                                   |
+|---------------|--------------------------------------------------------------|
+|    Read01     | [ Introduction to React and Components](Code301/read1)       |
+|    Read02     |                                                              |
+|    Read03     |                                                              | 
+|    Read04     |                                                              |
+|    Read05     |                                                              |
+|    Read06     |                                                              | 
+|    Read07     |                                                              | 
+|    Read08     |                                                              | 
+|    Read09     |                                                              | 
+|    Read010    |                                                              | 
+|    Read011    |                                                              | 
+|    Read012    |                                                              | 
+|    Read013    |                                                              | 
+|    Read014    |                                                              | 
+|    Read015    |                                                              |
 |               |                                                              | 
 |               |                                                              |
 
