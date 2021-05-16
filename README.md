@@ -57,8 +57,8 @@
 
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
-|    Read01     | [ Introduction to React and Components](Code301/read1)       |
-|    Read02     |                                                              |
+|    Read01     | [ Introduction to React and Components](Code301/read1.md)    |
+|    Read02     | [State and Props](Code301/read2.md)                          |
 |    Read03     |                                                              | 
 |    Read04     |                                                              |
 |    Read05     |                                                              |
