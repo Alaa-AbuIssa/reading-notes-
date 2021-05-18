@@ -60,7 +60,7 @@
 |    Read01     | [ Introduction to React and Components](Code301/read1.md)    |
 |    Read02     | [State and Props](Code301/read2.md)                          |
 |    Read03     | [Passing Functions as Props](Code301/read3.md)               | 
-|    Read04     |                                                              |
+|    Read04     | [Readings: React and Forms](Code301/read4.md)                |
 |    Read05     |                                                              |
 |    Read06     |                                                              | 
 |    Read07     |                                                              | 
