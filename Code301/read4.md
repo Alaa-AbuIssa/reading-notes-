@@ -8,7 +8,7 @@ An input form element whose value is controlled by React in this way is called a
 
 * The `<FormControl>` component renders a form control with Bootstrap styling
 
-* The `<FormControl>` component directly renders the <input> or other specified component.
+* The `<FormControl>` component directly renders the `<input>` or other specified component.
 * If your application contains a large number of form groups, we recommend building a higher-level component encapsulating a complete field group that renders the label, the control, and any other necessary components.
 * Provide valuable, actionable feedback to your users with form validation feedback.
 
