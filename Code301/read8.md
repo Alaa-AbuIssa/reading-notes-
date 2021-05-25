@@ -1,44 +1,44 @@
-# APIs
+# APIs
 
 
 **What does REST stand for?**
 
 
-* A REST API is designed regarding resources such as data, objects, or services accessible by the user.
+A REST API is designed regarding resources such as data, objects, or services accessible by the user.
 
 
-* Resources have identifiers, a URL.
+* Resources have identifiers, a URL.
 
 
-* Exchange of info with JSON.
+* Exchange of info with JSON.
 
 
-* Non-binding to the client.
+* Non-binding to the client.
 
 
-* HTTP requests are independent, can occur in any order.
+* HTTP requests are independent, can occur in any order.
 
 
-* Highly Scalable.
+* Highly Scalable.
 
 
 ![rest API](https://www.seobility.net/en/wiki/images/f/f1/Rest-API.png)
 
 
-### Maturity Model
-1.  Level 0 - Define URI plus all operations that are POST requests to URI. 
-2. Level 1 - Create separate URIs for resources. 
-3. Level 2 - Using HTTP methods for defining operations on these resources. 
-4. Level 3 - Use hypermedia (HATEOAS).
+### Maturity Model
+ 1. Level 0 - Define URI plus all operations that are POST requests to URI. 
+ 2.  Level 1 - Create separate URIs for resources. 
+ 3.  Level 2 - Using HTTP methods for defining operations on these resources. 
+ 4.  Level 3 - Use hypermedia (HATEOAS).
 
 
-* REST models the APIs and keep the internal implementation away from the client.
+* REST models the APIs and keep the internal implementation away from the client.
 
 
-* use plural nouns when naming URIs
+* use plural nouns when naming URIs
 
 
-### Define your operations in HTTP methods.
+### Define your operations in HTTP methods.
 ```
 GET
 POST requests create resources.
@@ -70,7 +70,7 @@ set Accept-Ranges in your Header to only accept a certain amount of 
 ![https](https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Understanding-Idempotency-and-Safety-in-API-Design.png)
 
 
-### HATEOAS
+### HATEOAS
 ```
 URI - Uniform Resource Identifier.
 
