@@ -64,4 +64,4 @@ When ever these errors appears and trying to debug them, the ;ine where the erro
 We use in our code the `debugger` to check fo errors, by putting it at the point we want to break. This method will show in steps how each code is run and also, show statistics of the code.
 
 ### Resources
-![JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c?gi=934c3772b52f)
+[JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c?gi=934c3772b52f)
