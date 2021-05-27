@@ -66,7 +66,7 @@
 |    Read07     | [REST](Code301/read7.md)                                     | 
 |    Read08     | [APIs](Code301/read8.md)                                     | 
 |    Read09     | [FUNCTIONAL PROGRAMMING](Code301/read9.md)                   | 
-|    Read010    |                                                              | 
+|    Read010    | [In memory storage](Code301/read10.md)                       | 
 |    Read011    |                                                              | 
 |    Read012    |                                                              | 
 |    Read013    |                                                              | 
