@@ -2,9 +2,7 @@
 
 ### In this repository. you will find my own notes for my coding journey 
 
-![table of content image](https://lh3.googleusercontent.com/proxy/7QX2onb2acW84CbgmuzYe4H2CSWWZq88rXsKHInA6tRbLT1LxNAzVfyHTlFgFAyFtqfCCwfxmspVkBImGhTmpKYxIqSzEttW9Vyh)
-
-
+![table of content image](https://images.squarespace-cdn.com/content/v1/5511fc7ce4b0a3782aa9418b/1429246332648-AY8KNLWWCUTY38XJB7KJ/ke17ZwdGBToddI8pDm48kA6lzrGeTuJk3YqIEJjxuWPlfiSMXz2YNBs8ylwAJx2qLijIv1YpVq4N1RMuCCrb3iJz4vYg48fcPCuGX417dnZ12Nuv-PK2xlxCKHBcfoSKI9Hi5XPMLummm3qqIMptFAoyyEsAbPHhHcQMU6bWQFI/acrylic-painting-table-of-contents.jpg)
 
 
 # Code 102 :  Intro to Software Development
