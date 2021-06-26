@@ -81,7 +81,7 @@
 
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
-|    Read01     |                                                              |
+|    Read01     | [Node Ecosystem, TDD, CI/CD](Code401/read1.md)               |
 |    Read02     |                                                              |
 |    Read03     |                                                              | 
 |    Read04     |                                                              |
