@@ -82,7 +82,7 @@
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
 |    Read01     | [Node Ecosystem, TDD, CI/CD](Code401/read1.md)               |
-|    Read02     |                                                              |
+|    Read02     | [Express](Code401/read2.md)                                  |
 |    Read03     |                                                              | 
 |    Read04     |                                                              |
 |    Read05     |                                                              |
