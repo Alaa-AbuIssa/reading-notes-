@@ -82,7 +82,7 @@
 |    Read02     | [Express](Code401/read2.md)                                  |
 |    Read03     | [ Express REST API](Code401/read3.md)                        | 
 |    Read04     | [ Data Modeling](Code401/read4.md)                           |
-|    Read05     |                                                              |
+|    Read05     | [Linked Lists](Code401/read5.md)                             |
 |    Read06     |                                                              | 
 |    Read07     |                                                              | 
 |    Read08     |                                                              | 
