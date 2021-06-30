@@ -81,7 +81,7 @@
 |    Read01     | [Node Ecosystem, TDD, CI/CD](Code401/read1.md)               |
 |    Read02     | [Express](Code401/read2.md)                                  |
 |    Read03     | [ Express REST API](Code401/read3.md)                        | 
-|    Read04     |                                                              |
+|    Read04     | [ Data Modeling](Code401/read4.md)                           |
 |    Read05     |                                                              |
 |    Read06     |                                                              | 
 |    Read07     |                                                              | 
