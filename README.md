@@ -83,7 +83,7 @@
 |    Read03     | [ Express REST API](Code401/read3.md)                        | 
 |    Read04     | [ Data Modeling](Code401/read4.md)                           |
 |    Read05     | [Linked Lists](Code401/read5.md)                             |
-|    Read06     |                                                              | 
+|    Read06     | [Authentication](Code401/read6.md)                           | 
 |    Read07     |                                                              | 
 |    Read08     |                                                              | 
 |    Read09     |                                                              | 
