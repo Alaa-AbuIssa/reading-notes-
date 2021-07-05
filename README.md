@@ -84,7 +84,7 @@
 |    Read04     | [ Data Modeling](Code401/read4.md)                           |
 |    Read05     | [Linked Lists](Code401/read5.md)                             |
 |    Read06     | [Authentication](Code401/read6.md)                           | 
-|    Read07     |                                                              | 
+|    Read07     | [Bearer Authorization](Code401/read7.md)                     | 
 |    Read08     |                                                              | 
 |    Read09     |                                                              | 
 |    Read010    |                                                              | 
