@@ -30,3 +30,13 @@ This makes it easier for people visiting your site to log in, as they won't have
 | API Endpoint            | This is one end of a communication channel with an API. This is the location where an API can get the resources it needs to carry out a function. |
 | Authorization Code      | After the user returns to the client on the redirect URL path, the app gets the authorization code and can use it to get an access token.         |
 | Access Token            | This allows an application to access an API. The app recieves an access token after the user is authenticated and authorized.                     |
+
+## Preview
+### Which 3 things had you heard about previously and now have better clarity on?
+***Access tokens, Authentication Endpoint, and Oauth***
+
+### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+***Authorization code, full cycle of accessing tokens, access token and authorization endpoints***
+
+### What are you most excited about trying to implement or see how it works?
+***access token and authorization endpoints, build a fully functional app and the tests stuff***
