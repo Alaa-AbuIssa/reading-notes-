@@ -87,7 +87,7 @@
 |    Read07     | [Bearer Authorization](Code401/read7.md)                     | 
 |    Read08     | [Access Control (ACL)](Code401/read8.md)                     | 
 |    Read09     | [SQL](Code401/read9.md)                                      | 
-|    Read010    |                                                              | 
+|    Read010    | [Stacks and Queues](Code401/read10.md)                       | 
 |    Read011    |                                                              | 
 |    Read012    |                                                              | 
 |    Read013    |                                                              | 
