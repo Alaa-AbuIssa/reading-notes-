@@ -100,3 +100,5 @@
 |    Read020    | [Component Based UI](Code401/read20.md)                      |
 |    Read21     | [Hook: useState](Code401/read21.md)                          | 
 |    Read22     | [ Component Lifecycle](Code401/read22.md)                    |
+|    Read23     | [  Advanced State with Reducers](Code401/read23.md)          |
+|    Read24     | []()                                                         | 
