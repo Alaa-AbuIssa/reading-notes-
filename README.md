@@ -101,4 +101,5 @@
 |    Read21     | [Hook: useState](Code401/read21.md)                          | 
 |    Read22     | [ Component Lifecycle](Code401/read22.md)                    |
 |    Read23     | [  Advanced State with Reducers](Code401/read23.md)          |
-|    Read24     | []()                                                         | 
+|    Read24     | [Hash Tables](Code401/read24.md)                             | 
+|    Read25     | []()                                                         | 
