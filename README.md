@@ -42,7 +42,7 @@
 |    Read013b   | [CSS ,Transitions, and Animations](Code201/Class13b.md)      | 
 |    Read014    | [What Google Learned About Teams](Code201/Class14.md)        | 
 |               |                                                              | 
-|               |                                                              |
+
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-# Code 401 : Advanced Software Developmen    
+# Code 401 : Advanced Software Development    
 
 |   Assignment  |                       Link                                   |
 |---------------|--------------------------------------------------------------|
@@ -104,3 +104,4 @@
 |    Read24     | [Hash Tables](Code401/read24.md)                             | 
 |    Read25     | [Context API](Code401/read25.md)                             | 
 |    Read26     | [Context API - Behaviors](Code401/read26.md)                 | 
+|    Read27     | [<Login /> and <Auth />](Code401/read27.md)                  | 
