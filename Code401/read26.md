@@ -3,11 +3,11 @@
 
 ## Review, Research, and Discussion
 
-* 1. When you have multiple contexts, what component type should you use (class/function) and why?
+**When you have multiple contexts, what component type should you use (class/function) and why?**
 
 *The difference is pretty obvious. Class components are ES6 classes and Functional Components are functions. The only constraint for a functional component is to accept props as an argument and return valid JSX.*
 
-* 2. What are some good use cases for using the Context API for global state?
+**What are some good use cases for using the Context API for global state?**
 
 * Twilio: Twilio really defines what it means to be API-driven.
 * Stripe : Stripe is one of the most successful and best known API-driven businesses.
@@ -15,7 +15,7 @@
 * Salesforce : XML APIs have been a part of Salesforce since day one, back in 2000 when it launched.
 * Rovi : Rovi is definitely the oldest company on the list, founded as Macrovision in 1983.
 
-* 3. How can you best test context?
+**How can you best test context?**
 
 The best way to test Context is to make our tests unaware of its existence and avoiding mocks. We want to test our components in the same way that developers would use them (behavioral testing) and mimic the way they would run in our applications (integration testing).
 
@@ -36,5 +36,5 @@ The best way to test Context is to make our tests unaware of its existence and a
 
 *Before You Use Context Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult and If you only want to avoid passing some props through many levels, the component composition is often a simpler solution than context.*
 
- ## Hooks and context example
+## Hooks and context example
 After performing an audit on how we communicate with our users, we landed with a simple system of three classes of communication, and snack bars fit perfectly on the ‘low priority end of that spectrum. They are small notifications that show up on the screen when a user performs an action. They are not intrusive at all and appear for just a brief moment.
