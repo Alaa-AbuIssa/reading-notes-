@@ -107,3 +107,4 @@
 |    Read27     | [<Login /> and <Auth />](Code401/read27.md)                  | 
 |    Read28     | [API Integration](Code401/read28.md)                         |      
 |    Read29     | [Graphs](Code401/read29.md)                                  |      
+|    Read29     | [Application State with Redux](Code401/read30.md)            |      
